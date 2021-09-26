@@ -1,3 +1,3 @@
 # blog-site
 
-Old HTML & CSS Blog with float.
+An old (Jan 2020) HTML & CSS Blog with float.
